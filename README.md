@@ -3,7 +3,7 @@
 
 ## About Me
 
-I am a recent Brynteg Sixth Form student currently seeking a Software Engineering Apprenticeship.
+I am a recent Sixth Form student currently seeking a Software Engineering Apprenticeship.
 
 I have experience using Python within Visual Studio Code and enjoy learning about programming, computers and technology. I am continuously developing my coding skills through personal projects and self-learning.
 
